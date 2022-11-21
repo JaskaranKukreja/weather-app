@@ -1,6 +1,5 @@
 #NOTE: Make sure before performing the below steps python & pip are installed in the system, if not install them from internet.
 
-(MacOs)<br/>
 1. Open terminal and enter the following commands:-<br/>
     a. Install dependencies `pip install -r requirements.txt`<br/>
     b. Initializing db, run command `python weather_service/sql_db.py`<br/>
